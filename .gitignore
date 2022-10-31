@@ -1,0 +1,5 @@
+music-app/node_modules
+music-app/.env
+music-app/src/api/uploads/file/images
+music-app-queue-consumer/.env
+music-app-queue-consumer/node_modules
